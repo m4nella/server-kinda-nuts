@@ -1,0 +1,46 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ffe6f2; /* cor de fundo suave */
+}
+
+.container {
+    margin: 20px;
+    padding: 10px;
+    background-color: #ffffff; /* cor de fundo do conteúdo */
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* sombra suave */
+}
+
+header {
+    text-align: center;
+    padding: 20px 0;
+}
+
+main {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.kawaii-section {
+    text-align: center;
+    padding: 20px;
+    background-color: #ffccff; /* cor de fundo suave para seções kawaii */
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* sombra suave */
+    margin: 10px;
+}
+
+.kawaii-section h2 {
+    color: #ff84c1; /* cor do título kawaii */
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #ffccff; /* cor de fundo suave para o rodapé */
+    border-radius: 0 0 10px 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* sombra suave */
+}
